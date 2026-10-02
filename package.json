@@ -1,0 +1,12 @@
+{
+  "name": "mockly-interview-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local, browser-based interview practice app with saved progress.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
